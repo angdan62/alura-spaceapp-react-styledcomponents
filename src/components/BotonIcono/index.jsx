@@ -8,5 +8,6 @@ const BotonIcono = styled.button`
     background-color: transparent;
     border: none;
     cursor: pointer;
-`;
+`
+
 export default BotonIcono
